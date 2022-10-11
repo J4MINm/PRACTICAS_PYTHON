@@ -1,2 +1,2 @@
-# PRACTICAS_PYTHON
+# PracticasPYTHON
 Practicas Python de la Universidad
